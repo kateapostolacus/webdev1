@@ -8,8 +8,20 @@ main {
     width: 350px;
   }
   .div {
-    width: 300px;
+    width: 500px;
     border: 15px solid green;
-    padding: 50px;
+    padding: 5px;
     margin: 2px;
   }
+  .teaa{
+  width: 500px;
+  border: 15px solid rgb(232, 161, 253);
+  padding: 5px;
+  margin: 2px;
+  }
+  .tget{
+    width: 500px;
+    border: 15px solid rgb(240, 29, 29);
+    padding: 5px;
+    margin: 2px;
+    }
