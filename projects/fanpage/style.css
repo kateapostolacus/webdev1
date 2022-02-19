@@ -4,7 +4,12 @@ main {
     margin: auto;
 }
 
-style
   .smaller-image {
     width: 350px;
+  }
+  .div {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 2px;
   }
