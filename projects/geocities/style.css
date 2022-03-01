@@ -4,12 +4,17 @@ header{
     font-size: 20px;
 }
 
-main {
-    margin: 3rem;
-}
 
 .kategif {
  position: absolute;
  left: 45rem;
  top: 0px;
+}
+
+.smaller-image{
+    width:500px
+}
+
+.sie{
+    width:300px
 }
