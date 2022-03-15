@@ -5,7 +5,13 @@ body{
 .body2{
     background-color: yellow;
 }
-
+p{
+    position: absolute;
+    top: 13rem;
+    left: 39rem;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
 .center {
     position: absolute;
     margin: auto;
@@ -20,6 +26,7 @@ body{
     animation-name: colorful;
     animation-duration: 12s;
     animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
 }
 
 @keyframes colorful{
