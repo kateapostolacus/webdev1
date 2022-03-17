@@ -1,17 +1,26 @@
 body{
     background-color: rgb(245, 220, 253);
 }
+.slay{
+    padding-top: 15rem;
+    position: static;
+    font-size: larger;
+    text-align: center;
+}
 
 .body2{
     background-color: yellow;
 }
+
 p{
     position: absolute;
     top: 13rem;
     left: 39rem;
     font-size: 30px;
     font-family: 'Courier New', Courier, monospace;
+    
 }
+
 .center {
     position: absolute;
     margin: auto;
@@ -26,7 +35,6 @@ p{
     animation-name: colorful;
     animation-duration: 12s;
     animation-fill-mode: forwards;
-    animation-iteration-count: infinite;
 }
 
 @keyframes colorful{
@@ -34,16 +42,55 @@ p{
         background-color: black;
     }
 
-    50%{
+    20%{
         background-color: aqua;
+    }
+
+    40%{
+        background-color: rgb(0, 119, 255);
+    }
+
+    60%{
+        background-color: rgb(4, 0, 255);
+    }
+
+    80%{
+        background-color: rgb(98, 0, 255);
     }
 
     100%{
-        background-color: aqua;
+        background-color: rgb(140, 0, 255);
     }
 }
 
-
 .body3{
     background-color: lightcoral
+}
+
+.h3{
+    position: absolute;
+    top: 9rem;
+    left: 30rem;
+    font-size: 33px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bounceskro{
+    background-color: #FFFDD0;
+    height: 200px;
+    margin-top: 20rem;
+    margin-left: 40rem;
+    transform-origin: bottom;
+    width: 200px;
+    border-radius: 50%;
+    animation-name: bounce; 
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes bounce{
+    0%   { transform: translateY(0); }
+    30%  { transform: translateY(-100px); }
+    50%  { transform: translateY(0); }
+    100% { transform: translateY(0); }
 }
