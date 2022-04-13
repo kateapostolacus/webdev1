@@ -10,8 +10,8 @@
 .phone{
     display: flex;
     flex-direction: column;
-    height: 31.5rem;
-    width: 25.4rem;
+    height: 38rem;
+    width: 26.3rem;
     background-color: black;
 }
 .row{
@@ -22,6 +22,7 @@
 .app{
     height: 5rem;
     width: 5rem;
-    margin: 10px;
+    margin-left: 20px;
+    margin-top: 35px;
     background-color: aquamarine;
 }
