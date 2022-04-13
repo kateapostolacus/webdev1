@@ -4,14 +4,14 @@
     justify-content: center;
     align-items: center;
     background-color: bisque;
-    max-height: 100rem;
-    max-width: 100rem;
+    max-width: 80%;
+    height: 100%;
 }
 .phone{
     display: flex;
     flex-direction: column;
     height: 40rem;
-    width: 40rem;
+    width: 20rem;
     background-color: black;
 }
 .row{
