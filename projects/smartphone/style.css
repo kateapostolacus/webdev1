@@ -10,8 +10,8 @@
 .phone{
     display: flex;
     flex-direction: column;
-    max-width: 40rem;
-    height: auto;
+    width: 26.4rem;
+    height: 38rem;
     background-color: black;
 }
 .row{
@@ -24,5 +24,78 @@
     width: 5rem;
     margin-left: 20px;
     margin-top: 35px;
+    border-radius: 10px;
     background-color: blue;
+}
+.app1{
+    height: 5rem;
+    width: 5rem;
+    margin-left: 20px;
+    margin-top: 35px;
+    border-radius: 10px;
+    background-color: beige;
+}
+.app2{
+    height: 5rem;
+    width: 5rem;
+    margin-left: 20px;
+    margin-top: 35px;
+    border-radius: 10px;
+    background-color: wheat;
+}
+.app3{
+    height: 5rem;
+    width: 5rem;
+    margin-left: 20px;
+    margin-top: 35px;
+    border-radius: 10px;
+    background-color: pink;
+}
+.app4{
+    height: 5rem;
+    width: 5rem;
+    margin-left: 20px;
+    margin-top: 35px;
+    border-radius: 10px;
+    background-color: paleturquoise;
+}
+.app5{
+    height: 5rem;
+    width: 5rem;
+    margin-left: 20px;
+    margin-top: 35px;
+    border-radius: 10px;
+    background-color: palegoldenrod;
+}
+.app6{
+    height: 5rem;
+    width: 5rem;
+    margin-left: 20px;
+    margin-top: 35px;
+    border-radius: 10px;
+    background-color: peachpuff;
+}
+.app7{
+    height: 5rem;
+    width: 5rem;
+    margin-left: 20px;
+    margin-top: 35px;
+    border-radius: 10px;
+    background-color: palevioletred;
+}
+.app8{
+    height: 5rem;
+    width: 5rem;
+    margin-left: 20px;
+    margin-top: 35px;
+    border-radius: 10px;
+    background-color: grey;
+}
+.app9{
+    height: 5rem;
+    width: 5rem;
+    margin-left: 20px;
+    margin-top: 35px;
+    border-radius: 10px;
+    background-image: url(https://images.unsplash.com/photo-1556139902-7367723b7e9e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGFzdGVsJTIwYWVzdGhldGljfGVufDB8fDB8fA%3D%3D&w=1000&q=80);
 }
