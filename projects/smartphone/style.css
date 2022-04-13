@@ -6,4 +6,17 @@ body{
     justify-content: center;
     align-items: center;
     background-color: bisque;
+    height: 45rem;
+    width: 40rem;
+}
+.phone{
+    display: flex;
+    flex-direction: column;
+    height: 4rem;
+    width: 4rem;
+    background-color: black;
+}
+.row{
+    display: flex;
+    flex-direction: row;
 }
