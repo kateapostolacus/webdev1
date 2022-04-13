@@ -4,8 +4,8 @@
     justify-content: center;
     align-items: center;
     background-color: bisque;
-    max-width: 80%;
-    height: 100%;
+    max-width: 100%;
+    height: auto;
 }
 .phone{
     display: flex;
@@ -17,4 +17,9 @@
 .row{
     display: flex;
     flex-direction: row;
+}
+.app{
+    height: 4rem;
+    width: 4rem;
+    background-color: aquamarine;
 }
