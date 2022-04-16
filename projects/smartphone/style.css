@@ -57,7 +57,7 @@
     margin-left: 20px;
     margin-top: 35px;
     border-radius: 10px;
-    background-color: paleturquoise;
+    background-color: #8c7288;
 }
 .app5{
     height: 5rem;
@@ -99,4 +99,95 @@
     border-radius: 10px;
     background: rgb(247,247,247);
     background: linear-gradient(90deg, rgba(247,247,247,1) 0%, rgba(249,142,116,1) 50%, rgba(255,160,74,1) 100%);
+}
+.app10{
+    height: 5rem;
+    width: 5rem;
+    margin-left: 20px;
+    margin-top: 35px;
+    border-radius: 10px;
+    background: rgb(238,240,187);
+    background: linear-gradient(90deg, rgba(238,240,187,1) 0%, rgba(249,242,116,1) 48%, rgba(254,208,166,1) 100%);
+}
+.app11{
+    height: 5rem;
+    width: 5rem;
+    margin-left: 20px;
+    margin-top: 35px;
+    border-radius: 10px;
+    background: rgb(219,206,240);
+    background: linear-gradient(90deg, rgba(219,206,240,1) 0%, rgba(236,182,245,1) 48%, rgba(254,166,247,1) 100%);
+}
+.app12{
+    height: 5rem;
+    width: 5rem;
+    margin-left: 20px;
+    margin-top: 35px;
+    border-radius: 10px;
+    background: rgb(240,206,222);
+    background: linear-gradient(90deg, rgba(240,206,222,1) 0%, rgba(245,182,198,1) 48%, rgba(254,166,189,1) 100%);
+}
+.app13{
+    height: 5rem;
+    width: 5rem;
+    margin-left: 20px;
+    margin-top: 35px;
+    border-radius: 10px;
+    background-color: #bde3bc;
+}
+.app14{
+    height: 5rem;
+    width: 5rem;
+    margin-left: 20px;
+    margin-top: 35px;
+    border-radius: 10px;
+    background-color: #a1bab3;
+}
+.app15{
+    height: 5rem;
+    width: 5rem;
+    margin-left: 20px;
+    margin-top: 35px;
+    border-radius: 10px;
+    background-color: #a1a2ba;
+}
+.app16{
+    height: 5rem;
+    width: 5rem;
+    margin-left: 20px;
+    margin-top: 35px;
+    border-radius: 10px;
+    background-color: #baa1b5;
+}
+.app17{
+    height: 5rem;
+    width: 5rem;
+    margin-left: 20px;
+    margin-top: 35px;
+    border-radius: 10px;
+    background-color: #babaa1;
+}
+.app18{
+    height: 5rem;
+    width: 5rem;
+    margin-left: 20px;
+    margin-top: 35px;
+    border-radius: 10px;
+    background-color: #f5d3fc;
+}
+.app19{
+    height: 5rem;
+    width: 5rem;
+    margin-left: 20px;
+    margin-top: 35px;
+    border-radius: 10px;
+    background-color: #a8c7c6;
+}
+.app20{
+    height: 5rem;
+    width: 5rem;
+    margin-left: 20px;
+    margin-top: 35px;
+    border-radius: 10px;
+    background-color: #afc7a8;
 }
