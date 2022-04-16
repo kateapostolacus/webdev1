@@ -1,4 +1,6 @@
-
+@media (max-height: 1000px){
+    .wrapper
+}
 .wrapper{
     display: flex;
     justify-content: center;
@@ -7,6 +9,7 @@
     max-width: 100%;
     height: auto;
 }
+
 .phone{
     display: flex;
     flex-direction: column;
