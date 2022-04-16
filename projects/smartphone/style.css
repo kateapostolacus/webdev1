@@ -1,13 +1,14 @@
-@media (max-height: 1000px){
-    .wrapper
+@media (max-height: 10px){
+    .wrapper{
+        background-color: bisque;
+    }
 }
 .wrapper{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: bisque;
+ 
     max-width: 100%;
-    height: auto;
 }
 
 .phone{
