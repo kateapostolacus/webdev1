@@ -167,3 +167,112 @@
     transition: 0.3s;
 }
 .app11:hover {opacity:1}
+.app12{
+    height: 11vmin;
+    width: 11vmin;
+    background: rgb(240,229,206);
+    background: linear-gradient(273deg, rgba(240,229,206,1) 0%, rgba(245,204,182,1) 48%, rgba(236,177,148,1) 100%);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.6;
+    transition: 0.3s;
+}
+.app12:hover {opacity:1}
+.app13{
+    height: 11vmin;
+    width: 11vmin;
+    background-color: rgb(206, 204, 172);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.6;
+    transition: 0.3s;
+}
+.app13:hover {opacity:1}
+.app14{
+    height: 11vmin;
+    width: 11vmin;
+    background-color: rgb(197, 167, 198);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.6;
+    transition: 0.3s;
+}
+.app14:hover {opacity:1}
+.app15{
+    height: 11vmin;
+    width: 11vmin;
+    background-color: rgb(225, 191, 167);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.6;
+    transition: 0.3s;
+}
+.app15:hover {opacity:1}
+.app16{
+    height: 11vmin;
+    width: 11vmin;
+    background-color: rgb(148, 146, 147);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.6;
+    transition: 0.3s;
+}
+.app16:hover {opacity:1}
+.app17{
+    height: 11vmin;
+    width: 11vmin;
+    background-color: rgb(217, 203, 217);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.6;
+    transition: 0.3s;
+}
+.app17:hover {opacity:1}
+.app18{
+    height: 11vmin;
+    width: 11vmin;
+    background-color: rgb(204, 230, 233);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.6;
+    transition: 0.3s;
+}
+.app18:hover {opacity:1}
+.app19{
+    height: 11vmin;
+    width: 11vmin;
+    background-color: rgb(248, 182, 202);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.6;
+    transition: 0.3s;
+}
+.app19:hover {opacity:1}
+.app20{
+    height: 11vmin;
+    width: 11vmin;
+    background-color: rgb(236, 234, 194);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.6;
+    transition: 0.3s;
+}
+.app20:hover {opacity:1}
