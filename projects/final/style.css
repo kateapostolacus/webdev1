@@ -63,3 +63,15 @@ h1{
     margin-left: 40rem;
     position: absolute;
 }
+.streets{
+    width: 400px;
+    height: 610px;
+    padding: 5px;
+    margin-top: 2rem;
+    margin-left: 40rem;
+    position: absolute;
+}
+.building{
+    margin-top: 2rem;
+    width: 600px;
+}
